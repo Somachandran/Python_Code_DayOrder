@@ -1,0 +1,171 @@
+Act as a senior technical recruiter and professional resume writer.
+
+Create a modern, ATS-friendly, one-page resume for a [Developer] position.
+
+My details:
+
+Name: [SOMACHANDRAN K]
+Phone: [9360522008]
+Email: [somachandran006@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/soma-chandran-821515285/]
+GitHub: [https://github.com/Somachandran?tab=repositories]
+Location: [CITY, COUNTRY](take from old resume)
+
+Professional Summary:(take from old resume)
+[WRITE A SHORT INTRODUCTION ABOUT ...]
+
+Education:(take from old resume)
+Degree: [DEGREE NAME]
+University: [UNIVERSITY NAME]
+Graduation Year: [completed in 2026]
+CGPA/Percentage: [OPTIONAL]
+
+Technical Skills:(take from old resume i am strong in python other i know theory concept )
+Programming Languages: [LIST]
+Frameworks: [LIST]
+Databases: [LIST]
+Tools & Technologies: [LIST]
+Concepts: [LIST]
+
+Projects:
+Project 1:
+Title:
+Description:
+Technologies Used:
+Key Features:
+Achievements/Results:(take from old resume)
+
+Project 2:
+Title:
+Description:
+Technologies Used:
+Key Features:
+Achievements/Results: (take from old resume)
+
+Project 3:
+**Employee Management System (Python & Django)**
+
+Designed and developed a full-stack Employee Management System using Python and Django to automate core Human Resource (HR) operations. The application provides a secure web interface for administrators to manage employees, attendance, departments, leave requests, and payroll. It follows the Model-View-Template (MVT) architecture and implements modular, scalable, and maintainable code using Django best practices.
+
+The system supports secure authentication, employee CRUD operations, attendance tracking, leave management, salary processing, department management, and dynamic report generation. Attendance reports can be viewed daily and monthly, while payroll is automatically calculated based on attendance, approved leave, bonuses, deductions, and tax. The application also includes advanced search, filtering, sorting, dashboard analytics, and CSV export functionality for reporting.
+
+**Key Features:**
+
+* Secure Admin Login and Authentication
+* Employee Management (Add, Update, Delete, View)
+* Attendance Management with Daily and Monthly Reports
+* Leave Request and Approval System
+* Payroll Management with Automatic Salary Calculation
+* Department Management
+* Search, Filter, and Sort Employee Records
+* Dashboard with Employee and Attendance Statistics
+* CSV Report Export
+* Form Validation and Exception Handling
+* Responsive User Interface using Bootstrap
+
+**Technologies Used:**
+
+* Python
+* Django Framework
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript
+* SQLite/MySQL
+* SQL
+* Django ORM
+* Django Templates
+* File Handling (CSV)
+* Git & GitHub
+
+**Concepts Applied:**
+
+* Object-Oriented Programming (OOP)
+* Django MVT Architecture
+* CRUD Operations
+* Authentication & Authorization
+* Database Design and Relationships
+* Model Forms
+* URL Routing
+* Template Inheritance
+* Exception Handling
+* Modular Programming
+* Data Validation
+* Report Generation
+
+**Skills Demonstrated:**
+
+* Python Development
+* Django Web Development
+* Backend Development
+* Database Management
+* RESTful Design Principles
+* Software Architecture
+* Problem Solving
+* Debugging and Testing
+* Version Control with Git
+* Full-Stack Web Application Development
+
+
+Work Experience 
+Company: adhoc software
+Role: python developer
+Duration: current
+Responsibilities:
+Achievements:
+
+Certifications:
+[📘 Enterprise / IT / Cloud / Java / Web / CRM
+Enterprise Infrastructure and Cloud Technologies
+Oracle Java Foundations
+HTML Mastery: Comprehensive Skills Assessment
+Get Started with HubSpot
+HubSpot: Working with a ticketing system
+Introduction to CRM with HubSpot
+Advanced Linux Troubleshooting and System Recovery
+Programming with JavaScript
+💻 Programming / C / C++ / Java / Web Development
+HTML, CSS, and Javascript for Web Developers
+Java for Beginners: Loops & Arrays
+Project Scheduling: Estimate Activity Durations
+Building Students Math Skills with iKnowit
+Learn C++ File Handling
+Project: Creating Your First C++ Application
+Managing Memory with C Programming
+Introduction to C Programming Variables Input Output]
+
+Achievements:
+[1 two sum
+word frequency
+first non-repeated character
+find duplicate elements
+check Anagram
+reverse words in a sentence
+most frequent element
+Missing number
+palindrome String
+Second largest number
+Password validater
+Employee salary analysis
+recursive sum
+recursive Factorial
+inventory management
+Bank Account system
+character Frequency
+Remove Duplicates While Preserving Order
+Student Grade System
+Mini Library System
+, etc.]
+
+Requirements:
+refer my old resume to take other informations
+1. Optimize the resume for ATS (Applicant Tracking Systems).
+2. Use strong action verbs and achievement-oriented bullet points.
+3. Include relevant keywords for [developer]
+4. Quantify achievements whenever possible.
+5. Keep the resume professional and concise.
+6. Format it with clear sections and proper spacing.
+7. Highlight technical skills and projects prominently.
+8. Suggest improvements if any information is missing.
+9. Give the final output in a clean resume format ready to copy into Word or PDF.
+10. Rate the resume out of 10 and provide recommendations to improve it further.
